@@ -1,0 +1,11 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: README
+  title: Introduction
+
+- part: Model and Code
+  chapters:
+    - file: monopoly
+    - file: commitments.ipynb
+    
